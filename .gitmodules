@@ -1,3 +1,6 @@
 [submodule "sss"]
 	path = sss
 	url = https://github.com/dsprenkels/sss.git
+[submodule "emsdk"]
+	path = emsdk
+	url = https://github.com/emscripten-core/emsdk.git
